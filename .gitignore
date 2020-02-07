@@ -1,0 +1,14 @@
+.mypy_cache
+__pycache__
+*.pyc
+.idea/
+
+results/
+kb/
+kb_embed*/
+
+slurm*
+*/model*.pt
+*/*.log
+*/*.sh
+!scripts/*.sh

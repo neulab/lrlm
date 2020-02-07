@@ -1,0 +1,6 @@
+git+git://github.com/facebookresearch/fasttext.git@bc1285939f1c216bd358425c3685a049dd8f56c0#egg=fastText
+IPython
+tqdm
+tensorboardX
+torch>=0.4
+numpy
