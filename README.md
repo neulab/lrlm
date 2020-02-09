@@ -1,7 +1,7 @@
 # Latent Relation Language Models
 
 This repository contains the official PyTorch implementation of Latent Relation Language Models
-([arXiv](https://arxiv.org/abs/1908.07690)):
+([paper](http://aaai.org/Papers/AAAI/2020GB/AAAI-HayashiH.9252.pdf)):
 
 > Hiroaki Hayashi\*, Zecong Hu\*, Chenyan Xiong, Graham Neubig<br/>
 > _Latent Relation Language Models_<br/>
