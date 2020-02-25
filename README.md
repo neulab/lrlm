@@ -19,6 +19,7 @@ This repository contains the official PyTorch implementation of Latent Relation 
     - tqdm
     - tensorboardX
     - [fastText@bc12859](https://github.com/facebookresearch/fastText/tree/bc1285939f1c216bd358425c3685a049dd8f56c0)
+    - mypy-extensions
 
 
 ## Usage
