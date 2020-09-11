@@ -46,7 +46,7 @@ This repository contains the official PyTorch implementation of Latent Relation 
    wget https://github.com/neulab/lrlm/releases/download/v1.0/t-xl_wt-f_model17.pt
 
    # Transformer-XL on WikiText-S model weights
-   wget https://github.com/neulab/lrlm/releases/download/v1.0/t-xl_wt-s_model17.pt
+   wget https://github.com/neulab/lrlm/releases/download/v1.0/t-xl_wt-s_model12.pt
    ```
    Note that the list of resources above are available under [releases](https://github.com/neulab/lrlm/releases).
 
